@@ -12,7 +12,7 @@ const MyPosts = (props) => {
             <button>Remove</button>
         </div>
         <div className={s.posts}>
-            <Post message="props.message" like={'15'} />
+            <Post message="Hello? what's new?" like={'15'} />
             <Post message="It's my first post" />
             {/*<Post />*/}
             {/*<Post />*/}
